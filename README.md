@@ -33,9 +33,9 @@ To run this project locally:
    npm run
 
 ### Technologies Used
-<img width="50" src="https://github.com/user-attachments/assets/fb18bf18-b1e0-45f2-81db-23ddcabc93fe"/>
-<img width="50" src="https://github.com/user-attachments/assets/d82edb91-8853-4794-a7cf-571938004367"/>
-<img width="50" src="https://github.com/user-attachments/assets/3888d31e-2c98-428c-ae93-9e1a6b1a5347"/>
+<img width="50" src="https://github.com/user-attachments/assets/efa28a80-462b-47a7-88ee-618019a808e7"/>
+<img width="50" src="https://github.com/user-attachments/assets/907411ee-82f6-4295-a2b9-c6967704ba40"/>
+<img width="50" src="https://github.com/user-attachments/assets/f7faee19-2086-4ab2-9a70-c1224bb015b0"/>
 
 ### Thank You for Checking Out My Project!
 
