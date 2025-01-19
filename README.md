@@ -1,6 +1,6 @@
 # Presentation Project
 ![Version](https://img.shields.io/badge/Release-1.0.0-blue)
-![Live Demo](https://img.shields.io/badge/Live%20Demo-Check%20it%20out!-brightgreen?link=https%3A%2F%2Fampestana.com%2F)
+![Live Demo](https://img.shields.io/badge/Live%20Demo-Check%20It%20Out!-brightgreen?link=https%3A%2F%2Fampestana.com%2F)
 
 This project is a portfolio presentation built with React. It serves as an introduction to who I am, my skills, and links to other projects in my portfolio. 
 Made with care and passion during my free time, this project reflects my dedication to learning and improving as a developer. I hope it gives you a glimpse of my skills and how I approach building web applications.
